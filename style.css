@@ -1,0 +1,42 @@
+table {
+  border-style: solid;
+}
+
+
+th,td {
+  border-style: solid;
+}
+
+.outer-content{
+  background-color:pink ;
+  text-align: left;
+  top:20px;
+  width: 75%;
+
+}
+.inner-content{
+    background-color:blue;
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.FT{
+  background-color:green;
+}
+
+.intro{
+	background-color:white;
+}
+
+.dataStruct{
+	background-color:yellow;
+}
+
+.webDev{
+	background-color:orange;
+}
+
+.work{
+	background-color:purple;
+}
